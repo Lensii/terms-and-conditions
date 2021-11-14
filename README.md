@@ -9,6 +9,7 @@ Lensii does not yet have a legal department, so this won't be written in lawyer-
 - You may not attempt to modify the app source code in any way
 - You may not use Lensii to spread fake or intentionally misleading news about any topic
 - You may not harass or pose danger to other users
+- No political discussion
 - Violating any of these rules may result in a permanent ban at Lensii's sole discretion
 
 
