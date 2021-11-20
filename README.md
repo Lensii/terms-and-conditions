@@ -1,7 +1,5 @@
 # terms-and-conditions
 
-Lensii does not yet have a legal department, so this won't be written in lawyer-talk.
-
 - No hate speech, including but not limited to: Racism, homophobia, etc
 - You may not create posts depicting extreme violence/gore
 - No nudity, partial or otherwise, is permitted
