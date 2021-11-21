@@ -8,6 +8,7 @@
 - You may not use Lensii to spread fake or intentionally misleading news about any topic
 - You may not harass or pose danger to other users
 - No political discussion
+- You may only post photos taken or created by you
 - Violating any of these rules may result in a permanent ban at Lensii's sole discretion
 
 
