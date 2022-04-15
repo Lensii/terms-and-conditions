@@ -9,6 +9,5 @@
 - You may not harass or pose danger to other users
 - Violating any of these rules may result in a permanent ban at our sole discretion
 
-
-
 We always reserve the right to deny service to a user for any reason.
+We may also email you about major new features (at most once every few months).
