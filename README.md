@@ -10,4 +10,4 @@
 - Violating any of these rules may result in a permanent ban at our sole discretion
 
 We always reserve the right to deny service to a user for any reason.
-We may also email you about major new features (at most once every few months).
+We may also email you about major new features, but we promise not to spam you and keep it only with the absolute most important things that you wouldn’t want to miss!
